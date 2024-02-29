@@ -2,10 +2,9 @@
 title: Mon super site
 ---
 
-# Accueil
+# Conclusion
 
 - [Page d'accueil](index.md)
 - [Introduction](intro.md)
 - [Conclusion](conclu.md)
-
 
